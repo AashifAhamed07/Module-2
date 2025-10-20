@@ -22,3 +22,4 @@ function(a,b)
 <img width="383" height="229" alt="Screenshot 2025-10-20 201640" src="https://github.com/user-attachments/assets/969766e5-6f79-4a48-bb26-341700acea13" />
 
 ## Result
+Thus the python program to get two values from user and return their sum using lambda function was created successfully.
