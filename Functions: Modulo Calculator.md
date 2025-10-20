@@ -25,3 +25,4 @@ print(result(a,b))
 
 
 ## Result
+Thus the python program that accpect two values and return modulo using % operator was created successfully.
