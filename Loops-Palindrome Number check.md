@@ -35,3 +35,4 @@ else:
 <img width="1050" height="233" alt="Screenshot 2025-10-20 204028" src="https://github.com/user-attachments/assets/12260a27-31fb-454c-b077-0f204c3433e1" />
 
 ## Result
+Thus, the python program to check whether the given number is palindrome or not is created successfully.
