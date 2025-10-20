@@ -41,4 +41,4 @@ for i in range(n):
 <img width="534" height="547" alt="Screenshot 2025-10-20 202032" src="https://github.com/user-attachments/assets/4f0d577d-cde3-483c-bc70-a44d80eabfc4" />
 
 ## Result
-
+Thus, the python program to create a pascal triangle using numbers is created successfully.
